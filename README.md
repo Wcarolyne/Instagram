@@ -1,4 +1,4 @@
-# Instagram
+# Instagram followers bot
 Build a bot to grow your Instagram account's following by automatically following prospective user and expecting a follow-back
 In this project you will build an instagram bot with Python. The goal of the project is to use Python to help small business accounts grow their following by idetifying prospective followers, following them and expecting them to follow you back. After a while you will also unfollow those who do not follow you back automatically to maintain the integrity of your account.
 
